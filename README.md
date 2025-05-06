@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sakthivel
 -  I’m interested in fullstack
--  I’m currently learning go
+-  I’m currently learning c++
 
 <!---
 sakthivelgokul2004/sakthivelgokul2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
